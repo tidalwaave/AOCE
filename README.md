@@ -15,9 +15,9 @@
 
 ## Description
 
-Ceci est une implémentation en Python du jeu Age of Empires, réalisée à l'occasion du cours Projet de Programmation durant premier semestre de la 3ème année en filière STI à l'INSA CVL.
+Ceci est une implémentation en Python du jeu Age of Empires, réalisée dans le cadre du cours "Projet de Programmation" lors du 1er semestre de notre 1ère année (Bac+3) au département "Sécurité et Technologies Informatiques" (STI à l'INSA CVL.
 
-Nous avons choisis le moteur graphique `The Arcade Library` pour réaliser la partie affichage graphique de notre jeu. (expliquer pourquoi)
+Nous avons choisi le moteur graphique `The Arcade Library` pour réaliser la partie affichage graphique de notre jeu. 
 
 Vous pouvez retrouver tous les détails concernant l'architecture de notre jeu dans le fichier `ARCHITECTURE.md`.
 
